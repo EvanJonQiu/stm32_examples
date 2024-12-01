@@ -1,0 +1,7 @@
+/Debug/
+/Release/
+.metadata
+.project
+.settings
+.DS_Store
+*.launch
