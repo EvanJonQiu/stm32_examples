@@ -55,3 +55,4 @@ Debug/
 *.launch
 *.mxproject
 .settings/*.prefs
+.DS_Store
